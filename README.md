@@ -1,3 +1,4 @@
 # gawi_bawi_bo
 
-LE PSEUDO CODE EST DANS psc_final
+Le pseudo code est dans psc_final
+Le jeu en python est dans py_FINAL
